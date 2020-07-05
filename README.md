@@ -1,7 +1,6 @@
 # Sentiment Analysis in the banking sector using Twitter API, AWS Comprehend and AWS SageMaker
 
 [![lisence](https://img.shields.io/github/license/cbarros7/sentiment-analysis-banking-sector?style=plastic)](https://github.com/cbarros7/sentiment-analysis-banking-sector/blob/master/LICENSE)
-
 [![Twitter Carlos](https://img.shields.io/twitter/follow/cbarros27?label=CarlosBarros&style=social)](https://twitter.com/cbarros27)
 
 ## Description :speech_balloon:
@@ -17,9 +16,10 @@ This project aims to share source code for sentiment analysis in the banking sec
 
 ## Tools :hammer:
 The tools used to develop the project were:
-
-
-![jupyter_python_numpy width-808](https://user-images.githubusercontent.com/60367519/80153609-7e09c180-8583-11ea-80da-ccaffb4b8889.png)
+ * Jupyter Notebook - Python
+ * Twitter API
+ * AWS Comprehend
+ * AWS SageMaker
 
 
 To carry out the above, it has been decided to take the following structure in the project: 
@@ -29,6 +29,19 @@ To carry out the above, it has been decided to take the following structure in t
 ### Data acquisition and cleaning
 #### Data sources
 The data is extracted from the Twitter API. Because 3 banks are analyzed, each one represented in totally different datasets, it is also worth adding that the tweets were taken into account, the date that was published and the place of origin (SEE TABLE 1). Later on, new columns are added with the different types of positive, negative and neutral score respectively. 
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/86543843-e5c77b80-bee7-11ea-897a-13d40317b03a.PNG">
+</p>
+<br>
+<center><strong><i>Table 1</i></strong></center>
+
+
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/60367519/86543850-f4159780-bee7-11ea-85c0-308beed842e0.PNG">
+</p>
+<br>
+<center><strong><i>Table 2</i></strong></center>
 
 
 
