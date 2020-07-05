@@ -3,17 +3,6 @@
 [![lisence](https://img.shields.io/github/license/cbarros7/sentiment-analysis-banking-sector?style=plastic)](https://github.com/cbarros7/sentiment-analysis-banking-sector/blob/master/LICENSE)
 [![Twitter Carlos](https://img.shields.io/twitter/follow/cbarros27?label=CarlosBarros&style=social)](https://twitter.com/cbarros27)
 
-<style>
-        div {
-             text-align: justify;
-             text-justify: inter-word;
-            }
-        img {
-             max-width: 100%;
-             height: auto;
-            }
-    </style>
-    
 ## Description :speech_balloon:
 According to the 2019 report published by the company DOMO (give link 1) in which they study the amount of data collected in each minute states that people are tweeting their thoughts at 511,200 tweets per minute.
 
@@ -44,10 +33,8 @@ The data is extracted from the Twitter API. Because 3 banks are analyzed, each o
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60367519/86543843-e5c77b80-bee7-11ea-897a-13d40317b03a.PNG">
 </p>
-<br>
 <p align="center"><strong>Table 1</strong></p>
 <br>
-
 
 #### Data cleaning
 For this phase of exploratory analysis it is fundamental to check the existence of null values and for this case in the column "location" there are 10 null values (SEE TABLE 2). In this way the data is cleaned (SEE TABLE 3). 
@@ -55,14 +42,12 @@ For this phase of exploratory analysis it is fundamental to check the existence 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60367519/86543850-f4159780-bee7-11ea-85c0-308beed842e0.PNG">
 </p>
-<br>
 <p align="center"><strong>Table 2</strong></p>
 <br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60367519/86543857-00015980-bee8-11ea-9b00-73c2f658f8ac.PNG">
 </p>
-<br>
 <p align="center"><strong>Table 3</strong></p>
 
 ### Exploratory Data Analysis
@@ -72,9 +57,8 @@ The data generated through the twitter API with the hashtag #bancolombia, extrac
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60367519/86543864-127b9300-bee8-11ea-9351-15f3fa3f73b6.png">
 </p>
-<br>
 <p align="center"><strong>Chart 1</strong></p>
-
+<br>
 
 
 ## Authors :black_nib:
