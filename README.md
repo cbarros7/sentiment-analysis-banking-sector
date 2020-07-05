@@ -1,7 +1,7 @@
 # Sentiment Analysis in the banking sector using Twitter API, AWS Comprehend and AWS SageMaker
 
-![GitHub](https://img.shields.io/github/license/cbarros7/sentiment-analysis-banking-sector?style=flat-square)
-(https://github.com/cbarros7/sentiment-analysis-banking-sector/blob/master/LICENSE)
+[![lisence](https://img.shields.io/github/license/cbarros7/sentiment-analysis-banking-sector?style=plastic)](https://github.com/cbarros7/sentiment-analysis-banking-sector/blob/master/LICENSE)
+
 [![Twitter Carlos](https://img.shields.io/twitter/follow/cbarros27?label=CarlosBarros&style=social)](https://twitter.com/cbarros27)
 
 ## Description :speech_balloon:
